@@ -1,0 +1,2 @@
+# Real-time-Pysiotheraphy-feedback-system-using-image-processing
+Real time Physiotherapy Feedback System Using AI-Based Pose Estimation is an Edge AI rehabilitation solution built with Raspberry Pi 5, Python, OpenCV, and MediaPipe. It monitors body posture in real time, calculates joint angles, provides instant visual and voice feedback, counts repetitions, supports affordable and contactless physiotherapy.
